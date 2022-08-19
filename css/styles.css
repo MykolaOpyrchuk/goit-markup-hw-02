@@ -88,7 +88,7 @@ Header
         color: var(--grey-txt-cl);
 }
 
-
+.link-active,
 .header .link-contacts:hover,
 .header .link-contacts:focus{
     color: var(--accent-txt-cl);

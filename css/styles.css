@@ -114,7 +114,8 @@ Header
     cursor: pointer;
 }
 .hero-button{
-     font-weight: 700;
+        font-family: inherit;
+        font-weight: 700;
         font-size: 16px;
         line-height: 30px;
         /* identical to box height, or 188% */
@@ -262,6 +263,7 @@ Header
 .main-button:focus{background-color: var(--accent-bgc-cl);
 color: var(--light-txt-cl);}  
 .main-button{
+        font-family: inherit;
         font-weight: 500;
         font-size: 16px;
         line-height: 26px;

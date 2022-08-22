@@ -82,6 +82,9 @@ Header
 .link .link-active:active{
     color: var(--accent-txt-cl);
 }
+.header .link .link-active{
+    color: var(--accent-txt-cl);
+}
 
 
 
